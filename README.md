@@ -7,5 +7,5 @@ Program / Gra zrobiona na wzór oryginalnego klasycznego Snake, w grze chodzi o 
 Za każdym zjedzeniem owocu wąż się powiększa o 1 pixel / kratkę, co ma na celu utrudnić nam rozgrywkę. Wąż może przechodzić przez ściany, lecz musi uważać na swój ogon który jest coraz dłuższy. W grze sterujemy strzałkami oraz za pomocą klawisza „End” zakańczamy grę. Możemy ustawić szybkość rozgrywki jak i wielkość mapy, by bardziej zbalansować naszą trudność gry.
 
 #### Info
-Plik .exe to plik z skompilowaną grą.
+Plik .exe to plik z skompilowaną grą. <br/>
 Plik .cs to plik zawierający skrypt programu.
